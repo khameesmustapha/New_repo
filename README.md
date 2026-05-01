@@ -1,2 +1,2 @@
 # New_repo
-updated description 
+Edited note
